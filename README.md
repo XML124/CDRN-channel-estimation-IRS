@@ -8,7 +8,7 @@ Please follow the instructions of keras.
 
 # Usage
 Clone the repository:
-git clone https://github.com/XML124/DReL-channel-estimation-IRS.git
+git clone https://github.com/XML124/CDRN-channel-estimation-IRS.git
 
 1. use the two .m files to generate the training dataset and test dataset.
 2. run the CDRN.py to realize the CDRN algorithm.
