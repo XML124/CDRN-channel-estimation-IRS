@@ -1,5 +1,5 @@
 # CDRN-channel-estimation-IRS
-An implementation of our paper [Deep Residual Network Empowered Channel Estimation for IRS-Assisted Multi-User Communication Systems](https://arxiv.org/abs/2012.00241) (accepted by IEEE Trans. Wireless Commun., doi: 10.1109/TWC.2021.3100148).
+An implementation of our paper [Deep Residual Network Empowered Channel Estimation for IRS-Assisted Multi-User Communication Systems](https://ieeexplore.ieee.org/document/9500708) (accepted by IEEE Trans. Wireless Commun., doi: 10.1109/TWC.2021.3100148).
 
 For more information, you can visit the [Home Page](https://cliuwcom.weebly.com/) of the first author.
 
